@@ -1,6 +1,6 @@
-# TraceGodBlade-Lock
+# Universal Silent Aim / Aim Lock
 
-Use #Handler
+# Use #Handler
 
 + Universal R15 & R6 Silent Aim
   + Streamable
